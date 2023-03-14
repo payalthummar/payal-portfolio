@@ -40,17 +40,23 @@ const AboutDE = () => {
           </div>
 
           <p className="about-me__text">
-            Ich bin Full-Stack-Entwicklerin und wohne in Babenhausen. Ich bin
+            Ich bin Full-Stack-Entwicklerin und wohne in Deutchland. Ich bin
             derzeit auf der Suche nach einem Unternehmen, in dem ich meine
             Zukunft aufbauen kann.
             <br /> <br />
-            t, React, Node.js, Express und MongoDB aus, um nur einige zu nennen.
-            Ich programmiere leidenschaftlich gern und bin ständig bestrebt,
-            meine Fähigkeiten durch das Erlernen neuer Technologien und
-            Frameworks zu verbessern. Außerdem lege ich großen Wert auf Teamwork
-            und Zusammenarbeit und freue mich immer darauf, mit anderen
-            Entwicklern und Designern zusammenzuarbeiten, um hochwertige
-            Anwendungen zu entwickeln.
+            Ich habe kürzlich das Full-Stack Developer Bootcamp der WBS Coding
+            School absolviert. Bootcamp, in dem ich praktische Erfahrungen in
+            der Entwicklung von Web Web-Anwendungen mit modernen Technologien.
+            Während des Bootcamps habe ich arbeitete ich an mehreren
+            anspruchsvollen Projekten, die mir halfen, meine Fähigkeiten in der
+            Front-End- und Back-End-Entwicklung. Ich bin geübt im Umgang mit
+            Technologien wie HTML, CSS, JavaScript, React, Node.js, Express, und
+            MongoDB, um nur einige zu nennen. Ich programmiere leidenschaftlich
+            gern und und bin ständig bestrebt, meine Fähigkeiten durch das
+            Erlernen neuer Technologien und Frameworks. Außerdem glaube ich fest
+            an Teamarbeit und Zusammenarbeit, und ich freue mich immer auf die
+            Zusammenarbeit mit Entwicklern und Designern zusammenzuarbeiten, um
+            hochwertige Anwendungen zu entwickeln.
             <br />
             <br />
             Ich habe Erfahrung in der Arbeit mit einer Reihe von Front-End- und
