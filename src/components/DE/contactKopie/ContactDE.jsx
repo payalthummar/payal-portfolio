@@ -49,7 +49,7 @@ const ContactDE = () => {
         <div className="contact__options">
           <article className="contact__option">
             <a
-              href="mailto:roxana.bita@gmail.com"
+              href="mailto:payalthummar1994@gmail.com"
               target="_blank"
               rel="noopener noreferrer"
             >
