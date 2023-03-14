@@ -1,27 +1,5 @@
 import React from "react";
 import "../../experience/experience.css";
-import { IconContext } from "react-icons";
-import {
-  SiBootstrap,
-  SiFigma,
-  SiJavascript,
-  SiMaterialdesign,
-  SiMysql,
-  SiNodemon,
-  SiPhp,
-  SiPhpmyadmin,
-  SiPostman,
-} from "react-icons/si";
-import { SiHtml5 } from "react-icons/si";
-import { SiCss3 } from "react-icons/si";
-import { SiTypescript } from "react-icons/si";
-import { SiReact } from "react-icons/si";
-import { SiExpress } from "react-icons/si";
-import { SiNodedotjs } from "react-icons/si";
-import { SiPostgresql } from "react-icons/si";
-import { SiMongodb } from "react-icons/si";
-import { SiTailwindcss } from "react-icons/si";
-import { SiGit } from "react-icons/si";
 
 const ExperienceDE = () => {
   const blocks = {
@@ -34,7 +12,7 @@ const ExperienceDE = () => {
       "Bootstrap",
       "Material UI",
     ],
-    Backend: ["Node JS", "Express JS", "MongoDB", "PostgreSQL"],
+    Backend: ["Node.js", "Express JS", "MongoDB", "PostgreSQL"],
     Methodologien: ["Git", "Scrum", "UI/UX Design", "Pair Programming"],
     Tools: ["Figma", "Github", "AWS amplify"],
   };
@@ -46,7 +24,7 @@ const ExperienceDE = () => {
       <h2>Meine Fähigkeiten</h2>
 
       <div className="container experience__container">
-        {/* {getSkills(blocks).map((skill) => (
+        {getSkills(blocks).map((skill) => (
           <div className="experience__skillset">
             <h3>{skill}</h3>
             <ul className="experience__list">
@@ -58,31 +36,7 @@ const ExperienceDE = () => {
               ))}
             </ul>
           </div>
-        ))} */}
-        <div className="experience__skillset">
-          <h3>Technologies</h3>
-          <div className="skills">
-            <IconContext.Provider value={{ size: "3em" }}>
-              <SiHtml5 />
-              <SiCss3 />
-              <SiJavascript />
-              <SiReact />
-              <SiFigma />
-              <SiTailwindcss />
-              <SiBootstrap />
-              <SiNodedotjs />
-              <SiMysql />
-              <SiPostman />
-              <SiPhp />
-              <SiPhpmyadmin />
-              <SiPostgresql />
-              <SiExpress />
-              <SiMongodb />
-
-              <SiGit />
-            </IconContext.Provider>
-          </div>
-        </div>
+        ))}
       </div>
     </section>
   );
