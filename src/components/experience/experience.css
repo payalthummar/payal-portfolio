@@ -56,11 +56,11 @@ li i {
   }
 
   .experience__container > div {
-    padding: 3rem 4rem;
+    padding: 3rem 1rem;
   }
 }
 @media screen and (max-width: 300px) {
   .experience__container > div {
-    padding: 1rem 2rem;
+    padding: 1rem 1rem;
   }
 }
