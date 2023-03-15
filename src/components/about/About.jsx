@@ -46,12 +46,12 @@ const About = () => {
             I'm a recent graduate from WBS Coding School's Full-Stack Developer
             bootcamp, where I gained hands-on experience in building web
             applications using modern technologies. Throughout the bootcamp, I
-            worked on several challenging projects that helped me hone my skills
-            in front-end and back-end development. I'm proficient in using
-            technologies such as HTML, CSS, JavaScript, React, Node.js, Express,
-            and MongoDB, to name a few. I'm passionate about coding and
-            constantly strive to improve my skills by learning new technologies
-            and frameworks. I'm also a strong believer in teamwork and
+            worked on several challenging projects that helped me improve my
+            skills in front-end and back-end development. I'm proficient in
+            using technologies such as HTML, CSS, JavaScript, React, Node.js,
+            Express, and MongoDB. I'm passionate about coding and constantly
+            strive to improve my skills by learning new technologies and
+            frameworks. I'm also a strong believer in teamwork and
             collaboration, and I always look forward to working with other
             developers and designers to build high-quality applications.
             <br /> <br />I have experience working with a range of front-end and

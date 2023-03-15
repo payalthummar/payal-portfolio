@@ -44,19 +44,20 @@ const AboutDE = () => {
             derzeit auf der Suche nach einem Unternehmen, in dem ich meine
             Zukunft aufbauen kann.
             <br /> <br />
-            Ich habe kürzlich das Full-Stack Developer Bootcamp der WBS Coding
-            School absolviert. Bootcamp, in dem ich praktische Erfahrungen in
-            der Entwicklung von Web Web-Anwendungen mit modernen Technologien.
-            Während des Bootcamps habe ich arbeitete ich an mehreren
-            anspruchsvollen Projekten, die mir halfen, meine Fähigkeiten in der
-            Front-End- und Back-End-Entwicklung. Ich bin geübt im Umgang mit
-            Technologien wie HTML, CSS, JavaScript, React, Node.js, Express, und
-            MongoDB, um nur einige zu nennen. Ich programmiere leidenschaftlich
-            gern und und bin ständig bestrebt, meine Fähigkeiten durch das
-            Erlernen neuer Technologien und Frameworks. Außerdem glaube ich fest
-            an Teamarbeit und Zusammenarbeit, und ich freue mich immer auf die
-            Zusammenarbeit mit Entwicklern und Designern zusammenzuarbeiten, um
-            hochwertige Anwendungen zu entwickeln.
+            Ich habe vor kurzem ein Full-Stack Web & App Entwicklung Bootcamp
+            bei der WBS Coding School absolviert, bei dem ich praktische
+            Erfahrungen in der Entwicklung von Webanwendungen mit modernen
+            Technologien sammeln konnte. Während des Bootcamps habe ich an
+            mehreren anspruchsvollen Projekten gearbeitet, die mir geholfen
+            haben, meine Fähigkeiten in der Front-End- und Back-End-Entwicklung
+            zu verbessern. Ich bin geübt im Umgang mit Technologien wie HTML,
+            CSS, JavaScript, React, Node.js, Express und MongoDB. Ich
+            programmiere leidenschaftlich gerne und bin ständig bestrebt, meine
+            Fähigkeiten durch das Erlernen neuer Technologien und Frameworks zu
+            verbessern. Außerdem lege ich großen Wert auf die Zusammenarbeit im
+            Team und freue mich immer darauf, mit anderen Entwicklern und
+            Designern zusammenzuarbeiten, um qualitativ hochwertige Anwendungen
+            zu entwickeln.
             <br />
             <br />
             Ich habe Erfahrung in der Arbeit mit einer Reihe von Front-End- und
