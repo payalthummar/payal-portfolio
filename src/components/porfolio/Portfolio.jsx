@@ -48,12 +48,10 @@ const Portfolio = () => {
             <article className="portfolio-item">
               <div className="portfolio__item-image">
                 <a href={p.demo} target="_blank" rel="noreferrer">
-                  {" "}
                   <div className="image">
-                    {" "}
                     <img
                       src={p.image}
-                      alt="mockup website"
+                      alt={p.title}
                       className="portfolio-image"
                     />
                   </div>
