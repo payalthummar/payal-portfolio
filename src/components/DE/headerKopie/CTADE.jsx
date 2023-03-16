@@ -6,10 +6,10 @@ const CTADE = () => {
   return (
     <div className="cta">
       <a href={CVDE} target="blank" className="btn">
-        Download CV <strong>DE</strong>
+        Herunterladen CV <strong>DE</strong>
       </a>
       <a href={CV} target="blank" className="btn">
-        Download CV <strong>EN</strong>
+        Herunterladen CV <strong>EN</strong>
       </a>
 
       <a href="#contact" className="btn btn-primary">

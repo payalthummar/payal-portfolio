@@ -20,7 +20,7 @@ const AboutDE = () => {
               <i className="fa fa-trophy" aria-hidden="true"></i>
               <h3>Erfahren</h3>
 
-              <small> 2+ berufserfahrung als Entwicklerin </small>
+              <small> 2+ Jahre berufserfahrung als Entwicklerin </small>
             </article>
 
             <article className="about__card">
